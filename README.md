@@ -47,7 +47,7 @@ SortAI isn't just an app; it's a movement. A movement towards a cleaner planet, 
 
 clone the project using git or just download zip file:
 ```
-git clone https://github.com/AbhikShar/SortAI
+git clone https://github.com/AbhikShar/SortAI.git
 ```
 working on virtual environment is good practice
 ```
