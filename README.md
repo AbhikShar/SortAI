@@ -1,5 +1,5 @@
 # SortAI - Revolutionizing Waste Management Through AI
-
+![Alt text](https://cdn.discordapp.com/attachments/866333535048564766/1165427159301619743/Logo.png?ex=6546cf9f&is=65345a9f&hm=26c2924ccd1517a259fd7c78bdb6d21550986c6174976976b54f13c01abaf4f5&)
 ## Inspiration
 In our rapidly advancing world, the waste we produce seems to be increasing just as quickly. However, while our technological capabilities surge forward, our waste disposal habits often remain stuck in the past. It's an alarming fact that a significant portion of our waste, from everyday items to complex electronics, ends up in the wrong disposal stream. These missteps not only harm the environment but also result in lost opportunities for recycling and repurposing valuable materials.
 
@@ -43,7 +43,7 @@ We also eagerly await feedback from our users. After all, SortAI is built for th
 ## Conclusion
 SortAI isn't just an app; it's a movement. A movement towards a cleaner planet, smarter waste disposal, and a more informed community. We invite you to join us on this exciting journey. Together, let's redefine waste management for the modern age.
 
-![Alt text](https://cdn.discordapp.com/attachments/866333535048564766/1165427159301619743/Logo.png?ex=6546cf9f&is=65345a9f&hm=26c2924ccd1517a259fd7c78bdb6d21550986c6174976976b54f13c01abaf4f5&)
+
 
 clone the project using git or just download zip file:
 ```
